@@ -1,0 +1,14 @@
+C:\Users\shraga\OneDrive\Desktop\לימודים\design patterns\Projecte\DigitalLibrary\bin\Debug\net8.0\DigitalLibrary.exe
+C:\Users\shraga\OneDrive\Desktop\לימודים\design patterns\Projecte\DigitalLibrary\bin\Debug\net8.0\DigitalLibrary.deps.json
+C:\Users\shraga\OneDrive\Desktop\לימודים\design patterns\Projecte\DigitalLibrary\bin\Debug\net8.0\DigitalLibrary.runtimeconfig.json
+C:\Users\shraga\OneDrive\Desktop\לימודים\design patterns\Projecte\DigitalLibrary\bin\Debug\net8.0\DigitalLibrary.dll
+C:\Users\shraga\OneDrive\Desktop\לימודים\design patterns\Projecte\DigitalLibrary\bin\Debug\net8.0\DigitalLibrary.pdb
+C:\Users\shraga\OneDrive\Desktop\לימודים\design patterns\Projecte\DigitalLibrary\obj\Debug\net8.0\DigitalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shraga\OneDrive\Desktop\לימודים\design patterns\Projecte\DigitalLibrary\obj\Debug\net8.0\DigitalLibrary.AssemblyInfoInputs.cache
+C:\Users\shraga\OneDrive\Desktop\לימודים\design patterns\Projecte\DigitalLibrary\obj\Debug\net8.0\DigitalLibrary.AssemblyInfo.cs
+C:\Users\shraga\OneDrive\Desktop\לימודים\design patterns\Projecte\DigitalLibrary\obj\Debug\net8.0\DigitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shraga\OneDrive\Desktop\לימודים\design patterns\Projecte\DigitalLibrary\obj\Debug\net8.0\DigitalLibrary.dll
+C:\Users\shraga\OneDrive\Desktop\לימודים\design patterns\Projecte\DigitalLibrary\obj\Debug\net8.0\refint\DigitalLibrary.dll
+C:\Users\shraga\OneDrive\Desktop\לימודים\design patterns\Projecte\DigitalLibrary\obj\Debug\net8.0\DigitalLibrary.pdb
+C:\Users\shraga\OneDrive\Desktop\לימודים\design patterns\Projecte\DigitalLibrary\obj\Debug\net8.0\DigitalLibrary.genruntimeconfig.cache
+C:\Users\shraga\OneDrive\Desktop\לימודים\design patterns\Projecte\DigitalLibrary\obj\Debug\net8.0\ref\DigitalLibrary.dll
